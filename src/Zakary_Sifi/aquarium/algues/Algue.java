@@ -1,4 +1,4 @@
-package Zakary_Sifi.algues;
+package Zakary_Sifi.aquarium.algues;
 
 public class Algue {
     @Override
