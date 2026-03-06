@@ -11,7 +11,7 @@ public class Main {
         Aquarium aquarium = new Aquarium(5);
 
         Poisson p1 = new PoissonClown("Nemo", 2, "Rouge");
-        Poisson p2 = new Piranha("Terreure", 3, "Vert");
+        Poisson p2 = new Piranha("Terreure", 3, "Verte");
 
         aquarium.ajouterPoisson(p1);
         aquarium.ajouterPoisson(p2);
