@@ -8,10 +8,10 @@ import etudiant14.aquarium.PoissonClown;
 public class Main {
     public static void main(String[] args) {
 
-        Aquarium aquarium = new Aquarium(5);
+        Aquarium aquarium = new Aquarium(10);
 
-        Poisson p1 = new PoissonClown("Nemo", 2, "orange");
-        Poisson p2 = new Piranha("Terreur", 3, "bleu");
+        Poisson p1 = new PoissonClown("Momo", 1, "fuchsia");
+        Poisson p2 = new Piranha("Oranda", 2, "rouge");
 
         aquarium.ajouterPoisson(p1);
         aquarium.ajouterPoisson(p2);

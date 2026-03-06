@@ -8,6 +8,6 @@ public class Piranha extends Poisson {
 
     @Override
     public void manger() {
-        System.out.println(nom + " mange des poissons!");
+        System.out.println(nom + " mange des poissons et des crustacés!");
     }
 }

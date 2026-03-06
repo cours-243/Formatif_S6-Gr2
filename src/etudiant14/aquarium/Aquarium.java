@@ -17,7 +17,7 @@ public class Aquarium {
             poissons.add(p);
             System.out.println(p.getNom() + " ajouté à l'aquarium.");
         } else {
-            System.out.println("Aquarium plein !");
+            System.out.println("L'aquarium a atteint sa pleine capacité!");
         }
     }
 
@@ -31,7 +31,7 @@ public class Aquarium {
 
     public void faireNagerTous() {
         for (Poisson p : poissons) {
-            p.nager(); // polymorphisme
+            p.nager(); // Polymorphisme
             p.manger();
         }
     }
