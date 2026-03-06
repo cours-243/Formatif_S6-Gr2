@@ -1,4 +1,4 @@
-package CedricBeaudoin.Algues;
+package CedricBeaudoin.aquarium.Algues;
 
 public class Algue {
 
