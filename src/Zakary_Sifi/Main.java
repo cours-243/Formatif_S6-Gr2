@@ -1,9 +1,9 @@
-package etudiant12;
+package Zakary_Sifi;
 
-import etudiant12.aquarium.Aquarium;
-import etudiant12.aquarium.Piranha;
-import etudiant12.aquarium.Poisson;
-import etudiant12.aquarium.PoissonClown;
+import Zakary_Sifi.aquarium.Aquarium;
+import Zakary_Sifi.aquarium.Piranha;
+import Zakary_Sifi.aquarium.Poisson;
+import Zakary_Sifi.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
