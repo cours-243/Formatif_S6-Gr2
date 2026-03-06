@@ -1,4 +1,4 @@
-package AnthonyBolduc.algues;
+package AnthonyBolduc.aquarium;
 
 public class Algue {
     @Override
