@@ -1,4 +1,4 @@
-package KangbeniParfaitBomboma.Algue;
+package KangbeniParfaitBomboma.aquarium.Algue;
 
 public class Algue {
 
