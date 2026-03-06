@@ -1,4 +1,4 @@
-package etudiant04.aquarium;
+package KangbeniParfaitBomboma.aquarium;
 
 public class Piranha extends Poisson {
 

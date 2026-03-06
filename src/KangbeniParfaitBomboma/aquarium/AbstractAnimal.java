@@ -1,4 +1,4 @@
-package etudiant04.aquarium;
+package KangbeniParfaitBomboma.aquarium;
 
 public abstract class AbstractAnimal {
 

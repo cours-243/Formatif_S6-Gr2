@@ -1,9 +1,9 @@
-package etudiant04;
+package KangbeniParfaitBomboma;
 
-import etudiant04.aquarium.Aquarium;
-import etudiant04.aquarium.Piranha;
-import etudiant04.aquarium.Poisson;
-import etudiant04.aquarium.PoissonClown;
+import KangbeniParfaitBomboma.aquarium.Aquarium;
+import KangbeniParfaitBomboma.aquarium.Piranha;
+import KangbeniParfaitBomboma.aquarium.Poisson;
+import KangbeniParfaitBomboma.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
