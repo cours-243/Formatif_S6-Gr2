@@ -1,4 +1,4 @@
-package etudiant20.aquarium;
+package julienbrunet.aquarium;
 
 public interface Nageur {
     void nager();
