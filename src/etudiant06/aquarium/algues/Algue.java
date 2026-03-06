@@ -1,4 +1,4 @@
-package etudiant06.algues;
+package etudiant06.aquarium.algues;
 
 /**
  * 420-266-H26 - POO II
