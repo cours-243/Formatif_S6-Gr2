@@ -1,4 +1,4 @@
-package etudiant04.aquarium;
+package KangbeniParfaitBomboma.aquarium;
 
 import java.util.ArrayList;
 import java.util.List;

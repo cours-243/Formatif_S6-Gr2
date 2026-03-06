@@ -1,4 +1,4 @@
-package etudiant03.aquarium;
+package AnthonyBolduc.aquarium;
 
 public abstract class Poisson extends AbstractAnimal implements Nageur {
 
@@ -19,5 +19,7 @@ public abstract class Poisson extends AbstractAnimal implements Nageur {
         System.out.println(nom + " nage dans l'eau.");
     }
 
-    public abstract void manger();
+    public abstract void manger(); {
+        System.out.println(nom + " mange en ce moment");
+    }
 }
