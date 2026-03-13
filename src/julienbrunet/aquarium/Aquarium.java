@@ -6,14 +6,14 @@ import java.util.List;
 public class Aquarium {
 
     private List<Poisson> poissons = new ArrayList<>();
-    private int capaciteMax;
+    private int capaciteMaximum;
 
     public Aquarium(int capaciteMax) {
-        this.capaciteMax = capaciteMax;
+        this.capaciteMaximum = capaciteMax;
     }
 
     public void ajouterPoisson(Poisson p) {
-        if (poissons.size() < capaciteMax) {
+        if (poissons.size() < capaciteMaximum) {
             poissons.add(p);
             System.out.println(p.getNom() + " ajouté à l'aquarium.");
         } else {
