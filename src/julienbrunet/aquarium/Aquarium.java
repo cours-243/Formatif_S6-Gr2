@@ -4,9 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Aquarium {
-
+    // la liste de s poissonqui ne doit pas depasser 20
     private List<Poisson> poissons = new ArrayList<>();
-    private int capaciteMaximum;
+    //le max de poissons
+    private int capaciteMaximum=20;
 
     public Aquarium(int capaciteMax) {
         this.capaciteMaximum = capaciteMax;
